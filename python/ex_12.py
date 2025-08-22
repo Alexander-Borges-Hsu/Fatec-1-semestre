@@ -6,4 +6,4 @@ idade = ano_atual - ano_nascimento
 
 idade_futura = idade + ano_futuro - ano_atual
 
-print(f"Sua idade atual é {idade}, e sua idade em {ano_futuro} será {idade_futura}.")
+print(f"Sua idade atual é {idade} anos, e sua idade em {ano_futuro} será {idade_futura} anos.")

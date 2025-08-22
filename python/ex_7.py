@@ -1,7 +1,7 @@
-comprimento = float(input("Insira o comprimento do paralelepípedo: "))
-largura = float(input("Insira a largura do paralelepípedo: "))
-altura = float(input("Insira a altura do paralelepípedo: "))
+comprimento = float(input("Insira o comprimento do paralelepípedo em centímetros: "))
+largura = float(input("Insira a largura do paralelepípedo em centímetros: "))
+altura = float(input("Insira a altura do paralelepípedo em centímetros: "))
 
 volume = comprimento * altura * largura
 
-print(f"O volume do paralelepípedo é {volume}")
+print(f"O volume do paralelepípedo é {volume} metros cúbicos.")

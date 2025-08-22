@@ -7,6 +7,6 @@ delta = coeficiente_B ** 2 - 4 * coeficiente_C * coeficiente_A
 raiz_1 = (- coeficiente_B + delta ** 0.5) / 2 * coeficiente_A
 raiz_2 = (- coeficiente_B - delta ** 0.5) / 2 * coeficiente_A
 
-print(f"A raíz 1 é {raiz_1} e a raíz 2 é {raiz_2}")
+print(f"A raíz 1 é :{raiz_1} e a raíz 2 é :{raiz_2}.")
 
 
