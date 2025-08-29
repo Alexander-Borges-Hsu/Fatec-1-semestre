@@ -13,4 +13,4 @@ print(salario_liquido)
 
 salario_liquido += 100 * quantidade_dependentes
 
-print(f"O salario bruto é de R${salario_bruto}, com o reajuste será de R${salario_liquido}.")
+print(f"O salario bruto é de R${salario_bruto:.2f}, com o reajuste será de R${salario_liquido:.2f}.")

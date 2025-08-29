@@ -5,4 +5,4 @@ altura = float(input("Insira a altura do paralelepípedo em centímetros: "))
 
 volume = comprimento * altura * largura
 
-print(f"O volume do paralelepípedo é {volume} metros cúbicos.")
+print(f"O volume do paralelepípedo é {volume:.2f} metros cúbicos.")

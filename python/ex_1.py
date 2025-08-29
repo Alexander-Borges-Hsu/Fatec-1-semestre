@@ -2,4 +2,4 @@
 lado = float(input("Insira um lado do quadrado: "))
 area = lado * lado
 
-print (f"A área do quadrado é {area} metros quadrados.")
+print (f"A área do quadrado é {area:.2f} metros quadrados.")

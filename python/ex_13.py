@@ -5,4 +5,4 @@ gramas_diarias = float(input("Insira a quantidade em gramas que será consumida 
 
 dias_consumo = alimento_quilo * 1000 / gramas_diarias
 
-print(f"Sabendo que será consumido {gramas_diarias} gramas por dia, {alimento_quilo} quilos irão durar {dias_consumo} dias.")
+print(f"Sabendo que será consumido {gramas_diarias} gramas por dia, {alimento_quilo:.2f} quilos irão durar {dias_consumo} dias.")

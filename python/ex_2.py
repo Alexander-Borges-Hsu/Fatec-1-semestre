@@ -4,4 +4,4 @@ porcentagem = float(input("Insira a porcentagem de alteração do salário (some
 salario = float(input(f"Insira o atual salário que sofrerá uma alteração de {porcentagem}%: "))
 novo_salario = salario * (1 + porcentagem / 100)
 
-print(f"O salário agora tem o valor de R${novo_salario}.")
+print(f"O salário agora tem o valor de R${novo_salario:.2f}.")
