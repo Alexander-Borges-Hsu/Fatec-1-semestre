@@ -1,3 +1,4 @@
+# Receba 2 números inteiros. Calcule e mostre a soma dos quadrados
 valor_1 = float(input("Digite o primeiro valor: "))
 valor_2 = float(input("Digite o segundo valor: "))
 

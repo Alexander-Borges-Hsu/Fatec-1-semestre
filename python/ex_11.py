@@ -1,3 +1,4 @@
+# Receba o raio de uma circunferência. Calcule e mostre o comprimento da circunferência
 raio = float(input("Insira o raio do círculo em centímetros: "))
 
 circunferencia = 6.28 * raio

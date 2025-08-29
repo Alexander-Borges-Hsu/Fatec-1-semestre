@@ -1,3 +1,4 @@
+# Receba dois números reais. Calcule e mostre a diferença desses valores
 valor_1 = float(input("Insira um valor: "))
 valor_2 = float(input("Insira um segundo valor: "))
 

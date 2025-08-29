@@ -1,3 +1,4 @@
+# Coletar o valor do lado de um quadrado, calcular sua área e apresentar o resultado.
 lado = float(input("Insira um lado do quadrado: "))
 area = lado * lado
 

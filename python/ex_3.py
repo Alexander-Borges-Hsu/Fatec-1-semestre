@@ -1,3 +1,4 @@
+# Receba a base e a altura de um triângulo. Calcule e mostre a sua área.
 base = float(input("Insira o tamanho da base do triângulo em centímetros: "))
 altura = float(input("Insira a altura do triângulo em centímetros: "))
 

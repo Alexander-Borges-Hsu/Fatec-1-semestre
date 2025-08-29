@@ -1,3 +1,5 @@
+# Calcule a quantidade de litros gastos em uma viagem, sabendo que o automóvel faz 12km/l. Receber o tempo de percurso e a velocidade média
+# Para deixar o código mais robusto, dei a possibilidade do usuário informar a quantidade de aproveitamento de combustível do veículo
 tempo_percurso = float(input("Digite o tempo do percurso em horas: "))
 velocidade_media = float(input("Digite a velocidade média do veículo em Km/h: "))
 aproveitamento_combustivel = float(input("Digite o aproveitamento do combustivel em km/L: "))

@@ -1,3 +1,4 @@
+#Receba a temperatura em graus Celsius. Calcule e mostre a sua temperatura convertida em fahreinheit
 temp_celsius = float(input("Insira a temperatura em celsius (somente números): "))
 
 temp_fahreinheit = (9 * temp_celsius + 160) / 5

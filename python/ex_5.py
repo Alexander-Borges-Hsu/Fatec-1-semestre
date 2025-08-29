@@ -1,3 +1,4 @@
+#Receba os coeficientes A, B, C de uma equação do 2° grau. Calcule e mostre suas raízes reais.
 coeficiente_A = float(input("Insira o coeficiente A da fórmula: "))
 coeficiente_B = float(input("Insira o coeficiente B da fórmula: "))
 coeficiente_C = float(input("Insira o coeficiente C da fórmula: "))
