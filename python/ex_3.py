@@ -4,5 +4,5 @@ altura = float(input("Insira a altura do triângulo em centímetros: "))
 
 area = (base * altura) / 2
 
-print(f"A área do triângulo é {area:.2f} metros quandrados.")
+print(f"A área do triângulo é {area:.2f} centímetros quadrados.")
 

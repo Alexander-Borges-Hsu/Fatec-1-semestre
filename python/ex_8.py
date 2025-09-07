@@ -2,7 +2,7 @@
 # Eu quis deixar o código robusto então deixei a possibilidade do usuário escolher a quantidade de mês e o rendimento
 deposito = float(input("Insira o valor do depósito: "))
 tempo_mes = float(input("Insira o tempo em mês que deixará rendendo: "))
-rendimento_mes = float(input("Insira o valor da porcentagem (somente números): "))
+rendimento_mes = float(input("Insira o valor da porcentagem do rendimento (somente números): "))
 rendimento_mes = rendimento_mes / 100 
 previsao = deposito * (1 + rendimento_mes) ** tempo_mes
 
